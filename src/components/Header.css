@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 65px;
+  background: linear-gradient(90deg, #400f13 1.18%, #6b0210 100%);
+  color: white;
+  padding: 20px;
+}
+
+.header--image {
+  height: 200%;
+  margin-right: 6px;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+.header--title {
+  font-size: 1em;
+  margin-right: auto;
+}
